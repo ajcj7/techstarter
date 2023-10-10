@@ -1,2 +1,2 @@
-# techstarter
-startcj7
+# Technical Documentation
+Simple technical documentation about HTML
